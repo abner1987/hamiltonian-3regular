@@ -1,4 +1,6 @@
 # hamiltonian-3regular
+#author:jinhui duan
+#email:646768522@qq.com
 #哈密顿回路查找算法
 - 线性时间复杂度：千万级顶点图处理仅需千秒级   - 确定性保证：满足条件时100%返回正确解   - 创新方法：完美匹配+补充边集+图染色三阶段框架  
 -Linear Time Complexity: Processing graphs with tens of millions of vertices in just thousands of seconds.
